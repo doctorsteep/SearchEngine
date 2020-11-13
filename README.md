@@ -19,5 +19,5 @@
 ##### Поиск по базе, происходит в **_URL, DESCRIPTION, KEYWORDS, HOST, PATH, TITLE_**
 
 ### Изображения
-![1](P1.png)
-![2](P2.png)
+![1](P1.PNG)
+![2](P2.PNG)
