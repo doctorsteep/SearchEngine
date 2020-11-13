@@ -1,0 +1,12 @@
+order allow,deny
+deny from 127.0.0.10
+deny from 127.0.0.15
+deny from 127.0.0.145
+#newIPAddres
+allow from all
+
+Options -MultiViews
+RewriteEngine On
+RewriteBase /
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule ^search/([\w-]+)/?$ index.php?q=$1 [L,QSA,NC]
