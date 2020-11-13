@@ -17,3 +17,7 @@
 - **description** - _Будет применён, если сайт не имеет свой **<meta name="description"...**_
 
 ##### Поиск по базе, происходит в **_URL, DESCRIPTION, KEYWORDS, HOST, PATH, TITLE_**
+
+### Изображения
+![1](P1.png)
+![2](P2.png)
